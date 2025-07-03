@@ -1,0 +1,58 @@
+---
+title: Complete Lightbox Example
+lightbox:
+  match: auto
+  effect: fade
+  desc-position: right
+  loop: false
+---
+
+![image](images/fieldwork/photo_2025-07-03_14-21-17.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-21-33.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-21-48.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-21-57.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-22-08.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-22-11.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-22-14.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-22-17.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-22-21.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-22-24.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-22-28.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-22-32.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-22-38.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-22-41.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-22-44.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-22-47.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-22-53.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-22-56.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-22-59.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-23-03.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-23-06.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-23-10.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-23-12.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-23-15.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-23-20.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-23-23.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-23-26.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-23-39.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-23-42.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-23-44.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-23-53.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-24-00.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-24-06.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-24-14.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-24-18.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-24-20.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-24-23.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-24-27.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-24-37.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-24-40.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-24-47.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-24-54.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-24-58.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-25-01.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-25-12.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-25-14.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-25-18.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-25-33.jpg){group="my-gallery"}
+![image](images/fieldwork/photo_2025-07-03_14-25-41.jpg){group="my-gallery"}

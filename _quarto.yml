@@ -14,6 +14,8 @@ website:
         text: Field Updates
       - href: publications.qmd
         text: Publications
+      - href: photos.qmd
+        text: Gallery
   page-footer: "© 2025 W. Christopher Carleton, Tho Thon, David Brotherson"
 
 format:
@@ -21,6 +23,11 @@ format:
     theme: cosmo
     toc: true
     css: styles.css
+    includes:
+      in-header:
+        - gallery/lightgallery-header.html
+      after-body:
+        - gallery/lightgallery-script.html
 
 
 
