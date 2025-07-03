@@ -1,10 +1,16 @@
 ---
-title: "Koh Ker Archaeology Project"
+title: ""
+format:
+  html:
+    css: styles.css
 ---
 
-![](images/kk_site_area.png){width=100%}
+![](images/kk_site_area.png){.hero-image}
 
-# Koh Ker Archaeology Project
+<div class="hero-text">
+  <h1>Koh Ker Archaeology Project</h1>
+  <p>Urban landscapes, environmental dynamics, and deep history at Cambodia’s enigmatic royal city</p>
+</div>
 
 Koh Ker, once a powerful royal center during the Angkorian period, remains one of Cambodia’s most intriguing and understudied ancient cities. In the 10th century CE, Jayavarman IV briefly moved the Angkorian court to Koh Ker, where he initiated an ambitious program of monumental construction and hydraulic engineering before the court returned to Angkor after just 16 years. Despite its historic importance, the long-term development and later occupation of Koh Ker have remained poorly understood.
 
