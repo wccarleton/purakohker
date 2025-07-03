@@ -6,7 +6,7 @@ output_file = "photos.qmd"
 
 # Header for the photos page
 header = """---
-title: Complete Lightbox Example
+title: Fieldwork Photos
 lightbox: true
 ---
 

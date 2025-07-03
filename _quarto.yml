@@ -23,11 +23,6 @@ format:
     theme: cosmo
     toc: true
     css: styles.css
-    includes:
-      in-header:
-        - gallery/lightgallery-header.html
-      after-body:
-        - gallery/lightgallery-script.html
 
 
 
