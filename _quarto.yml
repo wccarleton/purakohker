@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Koh Ker Archaeology Project"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: team.qmd
+        text: Team
+      - href: updates.qmd
+        text: Field Updates
+      - href: publications.qmd
+        text: Publications
+  page-footer: "© 2025 W. Christopher Carleton, Tho Thon, David Brotherson"
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+
+
+

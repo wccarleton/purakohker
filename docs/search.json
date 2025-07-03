@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Koh Ker Archaeology Project",
+    "section": "",
+    "text": "Welcome\nThis is the project homepage for ongoing archaeological research at Koh Ker, Cambodia.\nWe investigate the urban landscape, environmental change, and cultural dynamics of this important Angkorian site."
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Our Team",
+    "section": "",
+    "text": "Team Members\n\nW. Christopher Carleton\nTHO Thon\nDavid Brotherson"
+  }
+]
