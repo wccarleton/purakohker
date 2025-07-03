@@ -21,11 +21,11 @@ lines = []
 for img in image_files:
     path = f"{image_folder}/{img}"
     # Create lightbox link with group
-    line = f'![image]({path}){{group="my-gallery"}}'
+    line = f'![]({path}){{group="my-gallery"}}'
     lines.append(line)
 
 # Combine
-content = header + "\n".join(lines) + "\n"
+content = header + "\n\n".join(lines) + "\n"
 
 # Write file
 with open(output_file, "w", encoding="utf-8") as f:
