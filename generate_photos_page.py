@@ -7,11 +7,7 @@ output_file = "photos.qmd"
 # Header for the photos page
 header = """---
 title: Complete Lightbox Example
-lightbox:
-  match: auto
-  effect: fade
-  desc-position: right
-  loop: false
+lightbox: true
 ---
 
 """
