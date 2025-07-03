@@ -21,3 +21,19 @@ Our pilot work has demonstrated that terrestrial coring — complemented by magn
 By integrating spatial and temporal data at unprecedented resolution, this project aims to establish Koh Ker as a key case study for understanding the co-evolution of cities and landscapes in tropical environments. Through ongoing collaboration and open scientific exchange, we hope to shed new light on the dynamic relationship between Angkorian urbanism and its environmental context.
 
 We thank our partners at NAPV for their vital support and look forward to sharing future discoveries as this work progresses.
+
+## Acknowledgements
+
+This research is conducted in close collaboration with the National Authority of Preah Vihear (NAPV) and is generously supported by the Max Planck Society. We gratefully acknowledge their contributions and ongoing partnership.
+
+::: {.grid}
+
+::: {.g-col-6 .text-center}
+[![](images/logo_napv.png){width=150px}](https://napv.gov.kh/national-authority-for-preah-vihear)
+:::
+
+::: {.g-col-6 .text-center}
+[![](images/logo_mpggea.jpg){width=150px}](https://www.gea.mpg.de/)
+:::
+
+:::
