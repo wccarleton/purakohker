@@ -2,8 +2,62 @@
 title: "Our Team"
 ---
 
-# Team Members
+# Meet the Team
 
-- W. Christopher Carleton
-- THO Thon
-- David Brotherson
+We are an international and interdisciplinary group working together to investigate the archaeological site of Koh Ker as part of our ongoing collaborative research into Past Urban Resilience and Adaptation from the perspective of this important and enigmatic ancient Angkorian city.
+
+::: {.grid}
+
+::: {.g-col-4 .text-center}
+![](images/chris.jpg){.team-photo width=150px}
+
+<span style="font-size: 1.2em; font-weight: bold;">W. Christopher Carleton</span><br>
+<small style="color: #6c757d;">
+Archaeologist<br>
+Senior Scientist<br>
+</small>
+<small style="color: #adb5bd; font-style: italic;">
+Department of Coevolution of Land-use and Urbanisation<br>
+Max Planck Institute of Geoanthropology
+</small><br>
+<small>
+[Website](https://wccarleton.me)<br>
+[Google Scholar](https://scholar.google.ca/citations?user=0ZG-6CsAAAAJ&hl=en)<br>
+[ORCID](https://orcid.org/0000-0001-7463-8638)
+</small>
+:::
+
+::: {.g-col-4 .text-center}
+![](images/thon.jpg){.team-photo width=150px}
+
+<span style="font-size: 1.2em; font-weight: bold;">THO Thon</span><br>
+<small style="color: #6c757d;">
+Archaeologist<br>
+</small>
+<small style="color: #adb5bd; font-style: italic;">
+National Authority of Preah Vihear
+</small><br>
+<small>
+[NAPV](https://napv.gov.kh/national-authority-for-preah-vihear)
+</small>
+:::
+
+::: {.g-col-4 .text-center}
+![](images/david.jpg){.team-photo width=150px}
+
+<span style="font-size: 1.2em; font-weight: bold;">David Brotherson</span><br>
+<small style="color: #6c757d;">
+Archaeologist<br>
+Research Associate<br>
+</small>
+<small style="color: #adb5bd; font-style: italic;">
+Department of Coevolution of Land-use and Urbanisation<br>
+Max Planck Institute of Geoanthropology
+</small><br>
+<small>
+[Expeditions](https://world.expeditions.com/about/expedition-team/david-brotherson)<br>
+[LinkedIn](https://kh.linkedin.com/in/david-brotherson-27053b9a)
+</small>
+:::
+
+:::
