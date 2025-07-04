@@ -12,6 +12,15 @@ format:
   <p>Past Urban Resilience and Adaptaion at Cambodia’s enigmatic 10th century royal city</p>
 </div>
 
+<div class="pura-intro">
+  <p>
+    <strong>pura</strong>
+    <span class="script">(Sanskrit: <span lang="sa">पुर</span>, Khmer: <span lang="km">ពុរ</span>)</span>
+    — “ancient city”.
+  </p>
+  <p class="khmer-first">Honoring Cambodia’s heritage and living culture.</p>
+</div>
+
 <h2>The Ancient Angkorian Capital</h2>
 Koh Ker, once a powerful royal center during the Angkorian period, remains one of Cambodia’s most intriguing and understudied ancient cities. In the 10th century CE, Jayavarman IV briefly moved the Angkorian court to Koh Ker, where he initiated an ambitious program of monumental construction and hydraulic engineering before the court returned to Angkor after just 16 years. Despite its historic importance, the long-term development and later occupation of Koh Ker have remained poorly understood.
 

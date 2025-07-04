@@ -53,3 +53,34 @@ p {
   margin-top: 0.5em;
   font-size: 1.1em;
 }
+
+/* pura */
+
+.pura-intro {
+  text-align: center;
+  margin: 2rem auto;
+  max-width: 600px;
+  padding: 1rem;
+  border-top: 2px solid #ccc;
+  border-bottom: 2px solid #ccc;
+}
+
+.pura-intro p {
+  margin: 0.5em 0;
+  font-size: 1.3em;
+  line-height: 1.4;
+}
+
+.pura-intro .script {
+  display: block;
+  font-size: 1em;
+  margin-top: 0.3em;
+  opacity: 0.8;
+}
+
+.pura-intro .khmer-first {
+  font-size: 1em;
+  font-style: italic;
+  color: #555;
+  margin-top: 0.5em;
+}
