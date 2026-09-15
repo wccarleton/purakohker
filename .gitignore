@@ -1,1 +1,16 @@
 /.quarto/
+scripts/r2access.env
+scripts/sync-media.ps1
+scripts/rclone-v1.75.1-windows-amd64
+/images/*
+!/images/kk_site_area.png
+!/images/kk_site_area.webp
+!/images/kk_site_area_900.webp
+!/images/logo_napv.png
+!/images/logo_mpggea.jpg
+/docs/images/*
+!/docs/images/kk_site_area.png
+!/docs/images/kk_site_area.webp
+!/docs/images/kk_site_area_900.webp
+!/docs/images/logo_napv.png
+!/docs/images/logo_mpggea.jpg

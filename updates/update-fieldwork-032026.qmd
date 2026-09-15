@@ -1,0 +1,23 @@
+# March 2026 field season at Koh Ker
+
+[← All field updates](../updates.qmd)
+
+In March 2026, we returned to Koh Ker for the first major field season following our 2024 pilot project. The principal objective this time was to test and develop a terrestrial coring strategy that could take the project beyond individual excavation trenches and begin sampling human activity and environmental change across the wider archaeological landscape.
+
+For this campaign, our team was joined by **Dr Yoshi Maezumi**, Senior Scientist at the Max Planck Institute of Geoanthropology and an expert in palaeoenvironmental reconstruction, sediment coring, and the long-term history of fire. Her work integrates palaeoecological and archaeological evidence to reconstruct long-term human–environment interactions, making her expertise particularly valuable as we adapted sediment-coring approaches to the archaeological landscapes of Koh Ker.
+[Yoshi Maezumi’s profile at the Max Planck Institute of Geoanthropology](https://www.gea.mpg.de/person/123125/30295)
+
+The fieldwork was brief and extremely intense. Over only a few days, we collected more than 30 sediment cores from across the study area, all of which were subsequently shipped back to Germany for laboratory analysis. In retrospect, I may have approached the first couple of days with slightly too much enthusiasm. Having arrived from Germany, I went directly into the field that afternoon and followed it the next morning with a full day of terrestrial coring in the Cambodian dry-season heat. The predictable result was heatstroke and an enforced day in the hotel. Fortunately, Yoshi, David, and Thon kept the plane firmly in the air while I recovered, and I was able to rejoin the team the following day. Despite the demanding conditions and compressed schedule, the campaign ultimately proved highly successful.
+
+<!-- Add a March 2026 fieldwork/coring photograph here.
+Suggested caption: Terrestrial coring at Koh Ker during the March 2026 field season. -->
+
+Alongside the coring programme, we also had the opportunity to participate in archaeological trenching, particularly around a remarkable ritual pond south of the Rohal, Koh Ker’s enormous reservoir. Sculptures are carved directly into the bedrock around the pond, which forms part of an intricate hydrological network through which water ultimately feeds into the Rohal. Work there offered an especially vivid reminder that water at Koh Ker was not simply an environmental or engineering concern: hydrology, monumental construction, landscape modification, and ritual practice were closely intertwined.
+
+<!-- Add a March 2026 ritual pond, excavation, or carved-rock photograph here.
+Suggested caption: Archaeological investigations around a ritual pond south of the Rohal, part of Koh Ker’s complex hydrological landscape. -->
+
+The trip also coincided with an important moment for the archaeology of Koh Ker. We were invited by our colleagues at the **École française d’Extrême-Orient (EFEO)** to attend the presentation of the restored Dancing Śiva from Koh Ker at Angkor Conservation in Siem Reap. The monumental tenth-century sculpture had been reconstructed from more than 10,000 fragments following years of archaeological and conservation work. The ceremony, held on 18 March 2026, brought together Cambodian and international colleagues and gave us the opportunity to meet Christophe Pottier and other members of the EFEO team, as well as H.E. Dr Phoeurng Sackona, Cambodia’s Minister of Culture and Fine Arts, under whose patronage the event was held.
+[Read the EFEO report on the Dancing Śiva ceremony](https://www.efeo.fr/actualites/ceremonie-shiva-dansant-de-koh-ker/?lang=en)
+
+Taken together, the season represented an important transition for the project. The 2024 pilot demonstrated that sedimentary magnetic and archaeological signatures could be combined to reconstruct local patterns of past human influence. The 2026 campaign began the harder task of determining whether those methods can be scaled outward across the landscape. With more than 30 new cores now available for analysis, we have a substantially larger dataset with which to find out.

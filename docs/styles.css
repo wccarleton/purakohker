@@ -1,5 +1,136 @@
 /* css styles */
 
+/* publications */
+.publication-grid,
+.updates-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 21rem), 1fr));
+  gap: 1.25rem;
+  margin: 1.5rem 0 2.5rem;
+}
+
+.updates-grid {
+  max-width: 48rem;
+}
+
+.update-card {
+  overflow: hidden;
+  border: 1px solid #dce5e9;
+  border-radius: 1rem;
+  background: #fff;
+  box-shadow: 0 8px 24px rgba(26, 46, 55, 0.08);
+}
+
+.update-image {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+}
+
+.update-card-content {
+  padding: clamp(1.25rem, 4vw, 1.75rem);
+}
+
+.update-card-content p {
+  text-align: left;
+}
+
+.update-meta {
+  margin: 0 0 0.6rem;
+  color: #536d77;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.update-card h2 {
+  margin: 0 0 0.8rem;
+  font-size: clamp(1.3rem, 3vw, 1.6rem);
+  line-height: 1.3;
+}
+
+.update-card h2 a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.update-card h2 a:hover,
+.update-card h2 a:focus-visible {
+  color: #164b58;
+  text-decoration: underline;
+}
+
+.update-read-link {
+  display: inline-block;
+  margin-top: 0.4rem;
+  color: #164b58;
+  font-weight: 600;
+  text-underline-offset: 0.18em;
+}
+
+.publication-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.9rem;
+  padding: clamp(1.25rem, 4vw, 1.75rem);
+  border: 1px solid #dce5e9;
+  border-radius: 1rem;
+  background: #fff;
+  box-shadow: 0 8px 24px rgba(26, 46, 55, 0.08);
+}
+
+.publication-card h2 {
+  margin: 0;
+  font-size: clamp(1.3rem, 3vw, 1.6rem);
+  line-height: 1.3;
+}
+
+.publication-image {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border-radius: 0.7rem;
+}
+
+.publication-card p {
+  margin: 0;
+  text-align: left;
+}
+
+.publication-meta {
+  color: #536d77;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.publication-authors {
+  color: #46545a;
+  line-height: 1.55;
+}
+
+.publication-link {
+  align-self: flex-start;
+  margin-top: auto;
+  padding: 0.7rem 1rem;
+  border-radius: 0.55rem;
+  background: #164b58;
+  color: #fff;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.publication-link:hover,
+.publication-link:focus-visible {
+  background: #0d3640;
+  color: #fff;
+}
+
+.publication-update-link {
+  color: #164b58;
+  font-weight: 600;
+  text-underline-offset: 0.18em;
+}
+
 /* global */
 p {
   text-align: justify;

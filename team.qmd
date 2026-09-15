@@ -9,7 +9,7 @@ We are an international and interdisciplinary group working together to investig
 ::: {.grid}
 
 ::: {.g-col-4 .text-center}
-![](images/chris.jpg){.team-photo width=150px}
+![](https://media.wccarleton.org/chris.jpg){.team-photo width=150px}
 
 <span style="font-size: 1.2em; font-weight: bold;">W. Christopher Carleton</span><br>
 <small style="color: #6c757d;">
@@ -28,7 +28,7 @@ Max Planck Institute of Geoanthropology
 :::
 
 ::: {.g-col-4 .text-center}
-![](images/thon.jpg){.team-photo width=150px}
+![](https://media.wccarleton.org/thon.jpg){.team-photo width=150px}
 
 <span style="font-size: 1.2em; font-weight: bold;">THO Thon</span><br>
 <small style="color: #6c757d;">
@@ -43,7 +43,7 @@ National Authority of Preah Vihear
 :::
 
 ::: {.g-col-4 .text-center}
-![](images/david.jpg){.team-photo width=150px}
+![](https://media.wccarleton.org/david.jpg){.team-photo width=150px}
 
 <span style="font-size: 1.2em; font-weight: bold;">David Brotherson</span><br>
 <small style="color: #6c757d;">

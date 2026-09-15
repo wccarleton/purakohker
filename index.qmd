@@ -5,7 +5,10 @@ format:
     css: styles.css
 ---
 
-![](images/kk_site_area.png){.hero-image}
+<picture>
+  <source type="image/webp" srcset="images/kk_site_area_900.webp 900w, images/kk_site_area.webp 1750w" sizes="(max-width: 1200px) 100vw, 1200px">
+  <img class="hero-image" src="images/kk_site_area.png" alt="Map of the Koh Ker study area, with a photograph of Prasat Thom" width="1750" height="1235" fetchpriority="high">
+</picture>
 
 <div class="hero-text">
   <h1>PURA: Koh Ker</h1>

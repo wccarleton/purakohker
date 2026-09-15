@@ -3,6 +3,8 @@ project:
   output-dir: docs
   resources:
     - CNAME
+    - images/kk_site_area.webp
+    - images/kk_site_area_900.webp
 
 website:
   title: "PURA"
