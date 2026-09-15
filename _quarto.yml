@@ -5,6 +5,7 @@ project:
     - CNAME
     - images/kk_site_area.webp
     - images/kk_site_area_900.webp
+    - images/prasat_prang_icon.webp
 
 website:
   title: "PURA"

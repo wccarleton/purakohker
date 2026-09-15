@@ -47,7 +47,7 @@ Use a more specific commit message if you can. If `git status --short` shows no 
 | Card and page styling | `styles.css` |
 | Built website, committed to Git | `docs/` |
 
-The website domain is `kohker.org`. Project photos are served from the Cloudflare R2 bucket `kohker-media` through **`https://media.wccarleton.org`**. This image hostname is separate from the website domain. For example, local `images/fieldwork/photo.jpg` becomes `https://media.wccarleton.org/fieldwork/photo.jpg` after syncing. The R2 S3 API URL is for tools, not for links on the website.
+The website domain is `kohker.org`. Project photos are served from the Cloudflare R2 bucket `kohker-media` through **`https://media.wccarleton.org`**. This image hostname is separate from the website domain. For example, local `images/fieldwork/photo.jpg` becomes `https://media.wccarleton.org/fieldwork/photo.jpg` after syncing. The R2 S3 API URL is for tools, not for links on the website. `images/prasat_prang_icon.webp` is the small, Git-tracked fallback illustration for cards without their own photo; the original PNG stays locally.
 
 ## Add a publication
 
@@ -74,7 +74,7 @@ The update articles are separate files under `updates/`; the card list on `updat
    powershell -File scripts/sync-media.ps1
    ```
 
-   The script uses the local `urban-modelling` Conda environment with Pillow and the local rclone executable/configuration. It leaves images at or below **2000 pixels on each edge and 1 MB** alone. Larger images are resized and recompressed before upload; full-resolution originals are archived locally in `media-originals/`, which is not uploaded or tracked by Git. JPEG names stay the same. Oversized PNGs become `.webp`, so use the new filename in site links. The core map and logos are excluded from the R2 upload.
+   The script uses the local `urban-modelling` Conda environment with Pillow and the local rclone executable/configuration. It leaves images at or below **2000 pixels on each edge and 1 MB** alone. Larger images are resized and recompressed before upload; full-resolution originals are archived locally in `media-originals/`, which is not uploaded or tracked by Git. JPEG names stay the same. Oversized PNGs become `.webp`, so use the new filename in site links. The core map, logos, and Prasat Prang placeholder are excluded from the R2 upload.
 3. For a gallery image, add one object key per line to `media/gallery-objects.txt`, such as `fieldwork/photo.jpg`. Use the **post-sync** filename if conversion changed it. Then run `python generate_photos_page.py` to rebuild `photos.qmd`.
 4. Check a new image's public URL in a browser before publishing the page. Run `quarto render`, then commit and push.
 

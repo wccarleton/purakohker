@@ -5,10 +5,7 @@ Stories from the PURA project, from fieldwork to published research.
 ```{=html}
 <div class="updates-grid">
   <article class="update-card">
-    <picture>
-      <source type="image/webp" srcset="images/kk_site_area_900.webp 900w, images/kk_site_area.webp 1750w" sizes="(max-width: 768px) 100vw, 768px">
-      <img class="update-image" src="images/kk_site_area.png" alt="Map of the Koh Ker study area" loading="lazy" width="1750" height="1235">
-    </picture>
+    <img class="update-image placeholder-image" src="images/prasat_prang_icon.webp" alt="Illustration of Prasat Prang at Koh Ker" loading="lazy" width="900" height="900">
     <div class="update-card-content">
       <p class="update-meta">Fieldwork · March 2026</p>
       <h2><a href="updates/update-fieldwork-032026.html">Coring across Koh Ker</a></h2>
@@ -17,10 +14,7 @@ Stories from the PURA project, from fieldwork to published research.
     </div>
   </article>
   <article class="update-card">
-    <picture>
-      <source type="image/webp" srcset="images/kk_site_area_900.webp 900w, images/kk_site_area.webp 1750w" sizes="(max-width: 768px) 100vw, 768px">
-      <img class="update-image" src="images/kk_site_area.png" alt="Map of the Koh Ker study area" loading="lazy" width="1750" height="1235">
-    </picture>
+    <img class="update-image placeholder-image" src="images/prasat_prang_icon.webp" alt="Illustration of Prasat Prang at Koh Ker" loading="lazy" width="900" height="900">
     <div class="update-card-content">
       <p class="update-meta">Research · Story coming soon</p>
       <h2><a href="updates/update-latent-human-influence-field.html">Bayesian modelling at Koh Ker</a></h2>

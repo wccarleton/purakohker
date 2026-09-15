@@ -18,6 +18,7 @@ WEBP_QUALITY = 85
 PHOTO_EXTENSIONS = {".jpg", ".jpeg", ".png", ".webp"}
 BRANDING = {
     "kk_site_area.png", "kk_site_area.webp", "kk_site_area_900.webp",
+    "prasat_prang_icon.png", "prasat_prang_icon.webp",
     "logo_napv.png", "logo_mpggea.jpg",
 }
 

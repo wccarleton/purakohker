@@ -21,6 +21,8 @@ if (-not (Test-Path -LiteralPath $rclone)) { throw "rclone.exe is missing: $rclo
     --exclude "kk_site_area.png" `
     --exclude "kk_site_area.webp" `
     --exclude "kk_site_area_900.webp" `
+    --exclude "prasat_prang_icon.png" `
+    --exclude "prasat_prang_icon.webp" `
     --exclude "logo_napv.png" `
     --exclude "logo_mpggea.jpg" `
     --exclude "Thumbs.db" `

@@ -46,6 +46,11 @@
   object-fit: cover;
 }
 
+.placeholder-image {
+  object-fit: contain;
+  background: #fff;
+}
+
 .update-card-content {
   padding: clamp(1.25rem, 4vw, 1.75rem);
 }
