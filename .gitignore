@@ -1,7 +1,8 @@
 /.quarto/
+__pycache__/
 scripts/r2access.env
-scripts/sync-media.ps1
 scripts/rclone-v1.75.1-windows-amd64
+/media-originals/
 /images/*
 !/images/kk_site_area.png
 !/images/kk_site_area.webp
