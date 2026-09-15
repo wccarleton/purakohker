@@ -18,7 +18,7 @@ format:
 <div class="pura-intro">
   <p>
     <strong>pura</strong>
-    <span class="script">(Sanskrit: <span lang="sa">पुर</span>, Khmer: <span lang="km">ពុរ</span>)</span>
+    <span class="script">(Sanskrit: <span lang="sa">पुर</span>, Khmer: <span lang="km">បុរ</span>)</span>
     — “ancient city”.
   </p>
   <p class="khmer-first">Honoring Cambodia’s heritage and living culture.</p>

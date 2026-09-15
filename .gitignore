@@ -17,3 +17,5 @@ scripts/rclone-v1.75.1-windows-amd64
 !/docs/images/prasat_prang_icon.webp
 !/docs/images/logo_napv.png
 !/docs/images/logo_mpggea.jpg
+
+**/*.quarto_ipynb

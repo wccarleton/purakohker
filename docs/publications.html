@@ -20,7 +20,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -93,25 +93,25 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html">
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
-  </li>
+  </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./team.html">
+    <a class="nav-link" href="./team.html"> 
 <span class="menu-text">Team</span></a>
-  </li>
+  </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./updates.html">
+    <a class="nav-link" href="./updates.html"> 
 <span class="menu-text">Field Updates</span></a>
-  </li>
+  </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./publications.html" aria-current="page">
+    <a class="nav-link active" href="./publications.html" aria-current="page"> 
 <span class="menu-text">Publications</span></a>
-  </li>
+  </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./photos.html">
+    <a class="nav-link" href="./photos.html"> 
 <span class="menu-text">Gallery</span></a>
-  </li>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -126,7 +126,7 @@ ul.task-list li input[type="checkbox"] {
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
-
+   
   <ul>
   <li><a href="#publications" id="toc-publications" class="nav-link active" data-scroll-target="#publications">Publications</a></li>
   </ul>
@@ -171,7 +171,7 @@ W. Christopher Carleton, Thon Tho, David Brotherson, Samnang Phin, Huw Groucutt,
     anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
-        if (clz.startsWith('code-annotation-')) {
+        if (clz.startsWith('code-annotation-')) {                     
           return true;
         }
       }
@@ -191,11 +191,11 @@ W. Christopher Carleton, Thon Tho, David Brotherson, Samnang Phin, Huw Groucutt,
         button.setAttribute("data-bs-toggle", "tooltip");
         button.setAttribute("data-bs-placement", "left");
         button.setAttribute("data-bs-title", "Copied!");
-        tooltip = new bootstrap.Tooltip(button,
-          { trigger: "manual",
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
             customClass: "code-copy-button-tooltip",
             offset: [0, -8]});
-        tooltip.show();
+        tooltip.show();    
       }
       setTimeout(function() {
         if (tooltip) {
@@ -272,7 +272,7 @@ W. Christopher Carleton, Thon Tho, David Brotherson, Samnang Phin, Huw Groucutt,
       if (onUntriggerFn) {
         config.onUntrigger = onUntriggerFn;
       }
-      window.tippy(el, config);
+      window.tippy(el, config); 
     }
     const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
     for (var i=0; i<noterefs.length; i++) {
@@ -347,7 +347,7 @@ W. Christopher Carleton, Thon Tho, David Brotherson, Samnang Phin, Huw Groucutt,
       tippyHover(xref, undefined, function(instance) {
         instance.disable();
         let url = xref.getAttribute('href');
-        let hash = undefined;
+        let hash = undefined; 
         if (url.startsWith('#')) {
           hash = url;
         } else {
@@ -375,7 +375,7 @@ W. Christopher Carleton, Thon Tho, David Brotherson, Samnang Phin, Huw Groucutt,
               if (note !== null) {
                 const html = processXRef(id, note);
                 instance.setContent(html);
-              }
+              } 
             }).finally(() => {
               instance.enable();
               instance.show();
@@ -399,7 +399,7 @@ W. Christopher Carleton, Thon Tho, David Brotherson, Samnang Phin, Huw Groucutt,
               }
               const html = processXRef(null, note);
               instance.setContent(html);
-            }
+            } 
           }).finally(() => {
             instance.enable();
             instance.show();
@@ -439,7 +439,7 @@ W. Christopher Carleton, Thon Tho, David Brotherson, Samnang Phin, Huw Groucutt,
               height = bottom - top;
             }
             if (top !== null && height !== null && parent !== null) {
-              // cook up a div (if necessary) and position it
+              // cook up a div (if necessary) and position it 
               let div = window.document.getElementById("code-annotation-line-highlight");
               if (div === null) {
                 div = window.document.createElement("div");
@@ -565,7 +565,7 @@ W. Christopher Carleton, Thon Tho, David Brotherson, Samnang Phin, Huw Groucutt,
   <div class="nav-footer">
     <div class="nav-footer-left">
       &nbsp;
-    </div>
+    </div>   
     <div class="nav-footer-center">
 <p>© 2025 W. Christopher Carleton, Tho Thon, David Brotherson</p>
 </div>
