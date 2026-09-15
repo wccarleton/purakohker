@@ -46,7 +46,8 @@
   object-fit: cover;
 }
 
-.placeholder-image {
+.placeholder-image,
+.publication-figure {
   object-fit: contain;
   background: #fff;
 }
